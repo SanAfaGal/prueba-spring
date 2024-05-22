@@ -38,6 +38,18 @@ spring.thymeleaf.check-template-location=false
 server.port=8080
 ```
 
+4. Verificar que la base de datos se esté ejecutando
+   
+5. Ejecutar el programa principal
+```
+ApiSpringBootTest/
+├── src/
+    ├── main/
+        ├── java/
+            └── com.prueba.apispringboot
+                └── ApiSpringBootTestApplication.java
+```
+
 ## Uso y ejemplos
 Para poder ver la documentación y probar los endpoints, se debe ingresar a la siguiente URL una vez el proyecto se esté ejecutando:
 ```
